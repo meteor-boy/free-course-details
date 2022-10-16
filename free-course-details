@@ -5,3 +5,10 @@
       "courseLink" : "https://youtu.be/irqbmMNs2Bo",
       "type":"free"
     },
+	 {
+      "id": "2",
+      "courseName": "Google Cloud Computing Foundations",
+      "platform": "Google",
+      "courseLink": "https://learndigital.withgoogle.com/digitalgarage/course/gcloud-computing-foundations",
+      "type": "free"
+   },
